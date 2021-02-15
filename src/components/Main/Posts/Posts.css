@@ -1,0 +1,25 @@
+.posts{
+    margin: 0 40px;
+}
+
+.posts-title{
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.posts-form{
+    margin-bottom: 60px;
+}
+
+.posts-textarea{
+    width: 99%;
+}
+
+.posts-add-btn{
+    float: right;
+    margin-right: 3px;
+    padding: 5px 10px;
+    background-color: dodgerblue;
+    border: 1px solid white;
+    color: white;
+}

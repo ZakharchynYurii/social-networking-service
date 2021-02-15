@@ -1,0 +1,21 @@
+.navbar{
+    background-color: dodgerblue;
+    grid-area: navbar;
+}
+
+.navbar-ul{
+    list-style: none;
+}
+
+.navbar-li{
+    padding: 15px 0;
+}
+
+.navbar-a{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-li-active{
+
+}
